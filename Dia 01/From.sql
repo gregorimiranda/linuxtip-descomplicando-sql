@@ -1,4 +1,5 @@
 -- Databricks notebook source
+-- DBTITLE 1,Estudando o From
 SELECT * FROM silver_olist.pedido
 -- Leia-se selecione tudo da tabela silver_olist.pedido
 
